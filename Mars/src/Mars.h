@@ -8,6 +8,11 @@
 
 #include "Mars/Application.h"
 
+//
+// Log
+//
+
+#include "Mars/Log.h"
 
 //
 // Entry Point

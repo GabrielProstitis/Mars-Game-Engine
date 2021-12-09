@@ -27,9 +27,15 @@
     <ClInclude Include="src\Mars\EntryPoint.h">
       <Filter>File di intestazione</Filter>
     </ClInclude>
+    <ClInclude Include="src\Mars\Log.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Mars\Application.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Mars\Log.cpp">
       <Filter>File di origine</Filter>
     </ClCompile>
   </ItemGroup>
